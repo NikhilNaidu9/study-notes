@@ -1,4 +1,4 @@
-# Model Deployment Using AWS Sagemaker
+# Built-in Model Training & Deployment Using AWS Sagemaker
 ## Steps
 1. Create a AWS account to use it's services 
 1. Create a notebook instance first so we can create a model using it 
