@@ -24,14 +24,22 @@
 1. After this create a endpoint configuration using the frontend
 1. Then create a endpoint using existing endpoint configuration     
 1. This is where the problem occurs, it takes a lot of time to create a endpoint and then it fails 
+1. Problem was that the code was edited in the Windows system and it was executing in the Linux system so both have different line endings 
+1. Problem is solved by using a tool `dos2unix` on all the files which transforms the file endings like how it is required in Linux systems
 1. Sometimes the login credentials expires, we need to login again with the credentials using aws cli 
 1. After this create a `Lambda` function which will invoke the model 
 1. Function should have a python environment 
 1. Then add a trigger called `API Gateway` 
-
+1. Select the REST API option while creating it
+1. Add the code in lambda function to execute the request 
+1. Then in the API Gateway add the `POST` method which will be configured to trigger the lambda function 
+1. Then we write small script in the sagemaker notebook instance to pass the input and get the output from the endpoint  
 
 # Reference 
-Getting Started with AWS ECR CLI
+Tutorial Used  
+https://medium.com/analytics-vidhya/deploy-your-own-model-with-aws-sagemaker-55b4234be4a
+
+Getting Started with AWS ECR CLI  
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html
 
 # Errors
