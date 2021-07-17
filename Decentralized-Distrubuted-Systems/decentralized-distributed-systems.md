@@ -50,3 +50,25 @@
     1. Storage 
     1. Blockchain
     1. Network 
+
+# Papers to go through 
+## File System
+1. IPFS - Content Addressed, Versioned, P2P File System  
+https://arxiv.org/pdf/1407.3561.pdf 
+1. Filecoin: A Decentralized Storage Network  
+https://filecoin.io/filecoin.pdf
+1. The Google File System  
+https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+1. Cassandra - A Decentralized Structured Storage System  
+https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+1. Theta Mainnet 3.0 Whitepaper  
+https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-3-0-latest.pdf
+1. BitTorrent (BTT) White Paper
+https://www.bittorrent.com/btt/btt-docs/BitTorrent_(BTT)_White_Paper_v0.8.7_Feb_2019.pdf
+
+## Blockchain
+1. Ethereum Whitepaper  
+https://ethereum.org/en/whitepaper/
+1. Solana: A new architecture for a high
+performance blockchain v0.8.13  
+https://solana.com/solana-whitepaper.pdf
