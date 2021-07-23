@@ -51,6 +51,63 @@
     1. Blockchain
     1. Network 
 
+## Development Plan 
+### Blockchain 
+1. Installation
+    1. Install script 
+    1. Program configuration file   
+1. Develop a network 
+    1. Testnet and Mainnet
+    1. Discoving for peers
+    1. Maximum number of connections 
+1. Authentication 
+    1. Generate Identity 
+    1. Wallet
+1. Syncing 
+    1. Continously fetch block headers 
+    1. Drop unsync nodes as connections 
+    1. Caching important content of the chain 
+1. Ledger
+    1. Implementation of Genesis Block
+    1. Implementation of Chain Config 
+    1. Add the block header to the chain 
+1. Security 
+    1. Hashing Functions 
+    1. Key generation tool 
+1. Performance Enchancement 
+    1. Change cache limit values 
+1. Logging and Debugging
+    1. Log all the actions taking place in the network 
+1. Metrics and Stats  
+    1. Total Transactions 
+    1. Block Time
+    1. Number of Nodes
+
+### File Storage
+1. Installation
+    1. Install script 
+    1. Program configuration file   
+1. Develop a network 
+    1. Testnet and Mainnet
+    1. Discoving for peers
+    1. Maximum number of connections 
+1. Authentication 
+    1. Generate Identity 
+    1. Wallet
+1. Security 
+    1. Hashing Functions 
+    1. Key generation tool 
+1. Performance Enchancement 
+    1. Change cache limit values 
+1. Logging and Debugging
+    1. Log all the actions taking place in the network 
+1. Metrics and Stats 
+    1. Total Storage  
+    1. Number of Nodes
+
+### Social Network 
+1. Develop a network 
+
 # Papers to go through 
 ## File System
 1. IPFS - Content Addressed, Versioned, P2P File System  
