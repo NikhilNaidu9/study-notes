@@ -156,6 +156,7 @@
     1. Finance 101 
         1. How something is valuable? 
     1. America's note printing machine example
+    1. Miner -> Exchange -> User Nodes -> Storage Nodes -> Exchange
 1. What do we want to become? 
 1. Future Implementation 
 
