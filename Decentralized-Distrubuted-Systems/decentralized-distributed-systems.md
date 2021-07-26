@@ -51,6 +51,7 @@
     1. Blockchain
     1. Network 
 
+---
 ## Development Plan 
 ### Blockchain 
 1. Installation
@@ -108,6 +109,57 @@
 ### Social Network 
 1. Develop a network 
 
+---
+## Panel Selection Presentation Notes 
+1. What is our project?
+    1. Decentralized and distributed way of storing files and using the same for other applications 
+1. Why this project? ( Motivation )
+    1. We need a core research project even though this core is not our real core which is the hardware 
+    1. But if we see in the software domain, this is as far as we can go in the core 
+    1. We didn't wanted to do something which is already done in the academia and as well as in industry like making apps, websites or something else 
+1. What are the domains used in this project?
+    1. Blockchain
+    1. Cryptography
+    1. Distributed Systems
+    1. Networking
+    1. Compression
+    1. Security
+1. Why this project? ( Technical )
+    1. Disadvantages of the present internet
+        1. Centralization
+            1. The Internet has turbocharged innovation by being one of the great equalizers in human history — but increasing consolidation of control threatens that progress.
+            1. Varanasi Story of Google getting shutdown or disappearing 
+            1. Internet Shutdown - Google Example
+        1. Hacking
+        1. Dark Web 
+        1. Error 404 Not Found
+            1. The average lifespan of a web page is 100 days
+        1. Censorship 
+1. We need something new 
+1. What is Blockchain?
+    1. The underlying data structures that stores a permanent history of all transactions to even occur in history of blockchain
+    1. Data structure is a virtual format for organizing retrieving and storing information
+    1. CRUD explanation
+    1. It will be an append only ledger, meaning that any information added to the ledger can  not be deleted
+1. Most contributing factor of blockchain
+    1. Decentralization is the process of distributing and dispersing power away from a central authority
+    1. Most financial and governmental systems, which are currently in existence, are centralized
+    1. There is a single highest authority in charge of managing them, such as a central bank or state apparatus
+1. How it is going to be used in our project?
+    1. Record keeping
+    1. Cryptocurrency 
+        1. Incentivizing the actors in the network 
+1. [Let's see how everything works](https://andersbrownworth.com/blockchain/) 
+1. Reasons why big companies not adopting blockchain
+    1. Ad revenue 
+1. Finance Model 
+    1. Finance 101 
+        1. How something is valuable? 
+    1. America's note printing machine example
+1. What do we want to become? 
+1. Future Implementation 
+
+---
 # Papers to go through 
 ## File System
 1. IPFS - Content Addressed, Versioned, P2P File System  
