@@ -31,6 +31,8 @@
 1. Load Balancer 
 1. Database & Caching
 1. Content Delivery Network 
+1. Programming Language 
+I'll be using Golang for this learning process 
 
 ## Crowdsourcing learning topics from the internet 
 ### Backend Engineering ( Beginner ) - [Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT)
